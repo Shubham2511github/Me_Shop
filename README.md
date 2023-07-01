@@ -10,4 +10,4 @@
 - Profile page - show data taken using signup and allow user to edit it.
 - My Cart and Checkout functionality 
 #
-<a href = "https://shubham2511github.github.io/Me-Shop/">**Visit Now** 🚀</a>
+<a href = "https://shubham2511github.github.io/Me_Shop/">**Visit Now** 🚀</a>
